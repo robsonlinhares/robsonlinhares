@@ -1,13 +1,18 @@
 ### Hello, eu sou o Robson Linhares 👋
 
-[![Blog](https://img.shields.io/website?label=https://robsonlinharesdev.web.app&style=for-the-badge&url=https://robsonlinharesdev.web.app/)](https://robsonlinharesdev.web.app/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rlinhares/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](robsonlinhares@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5513991397138)
+<div> 
+  <a href="https://robsonlinharesdev.web.app/" target="_blank"><img src="https://img.shields.io/website?label=https://robsonlinharesdev.web.app&style=for-the-badge&url=https://robsonlinharesdev.web.app/" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rlinhares/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:robsonlinhares@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href="https://web.whatsapp.com/send?phone=5513991397138" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonlinhares&show_icons=true&theme=dracula)
-
-## Tecnologias que utilizo
+<br>
+<div align="center">
+  <a href="https://github.com/robsonlinhares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsonlinhares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonlinhares&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C#"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
@@ -18,4 +23,7 @@
   <img align="center" alt="TypeScript"src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />  
   <img align="center" alt="Angular"src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  
   <img align="center" alt="Bootstrap"src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />    
+  
+  ![Snake animation](https://github.com/robsonlinhares/robsonlinhares/blob/output/github-contribution-grid-snake.svg)
 </div>
+

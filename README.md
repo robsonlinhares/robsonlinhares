@@ -1,6 +1,7 @@
 ## Hello 👋,
 I'm Robson Linhares, .NET developer 👨‍💻 who is passionate about .NET.
-
+<br>
+<br>
 <div  align="center"> 
   <a href="https://robsonlinharesdev.web.app/" target="_blank"><img src="https://img.shields.io/website?label=https://robsonlinharesdev.web.app&style=for-the-badge&url=https://robsonlinharesdev.web.app/" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rlinhares/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -15,7 +16,7 @@ I'm Robson Linhares, .NET developer 👨‍💻 who is passionate about .NET.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonlinhares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="C#"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
   <img align="center" alt=".NET"src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />  
   <img align="center" alt="Html5"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  

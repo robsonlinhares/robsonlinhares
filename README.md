@@ -1,5 +1,11 @@
 ## Hello 👋,
-I'm Robson Linhares, .NET developer 👨‍💻 who is passionate about .NET.
+I'm a person that is passionate about coding and technologies that improve people's lives and make the world better, whose mission is to serve and give my best always!
+
+- 🔭 I’m currently working at [Cognizant](https://www.cognizant.com/) as Sr. Developer Analyst
+- 🌱 I’m currently learning Azure certifications, English, Docker, Microservices
+- :muscle: I’m specialist in .NET, 
+- ⚡ Show me the code!! Clean Code, DDD, SOLID
+
 <br>
 <br>
 <div  align="center"> 

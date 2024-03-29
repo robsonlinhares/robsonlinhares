@@ -1,7 +1,7 @@
 ## Hello 👋,
 I'm a person that is passionate about coding and technologies that improve people's lives and make the world better, whose mission is to serve and give my best always!
 
-- 🔭 I’m currently working at [Cognizant](https://www.cognizant.com/) as Sr. Developer Analyst
+- 🔭 I’m currently working at [B3](https://b3.com.br/pt_br/institucional) as Sr. Software engineer
 - 🌱 I’m currently learning Azure certifications, English, Docker, Microservices
 - ⚡ Show me the code!! Clean Code, DDD, SOLID
 

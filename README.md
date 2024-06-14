@@ -30,6 +30,7 @@ I'm a person that is passionate about coding and technologies that improve peopl
   <img align="center" alt="TypeScript"src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />  
   <img align="center" alt="Angular"src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  
   <img align="center" alt="Bootstrap"src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />    
+  <img align="center" alt="Dart"src= "https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white" />   
   
   ![Snake animation](https://github.com/robsonlinhares/robsonlinhares/blob/output/github-contribution-grid-snake.svg)
 </div>
